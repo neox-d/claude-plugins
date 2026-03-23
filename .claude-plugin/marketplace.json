@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "neox-d-plugins",
+  "description": "Claude Code plugins by neox-d",
+  "owner": {
+    "name": "neox-d"
+  },
+  "plugins": [
+    {
+      "name": "erpnext-timesheet",
+      "description": "Automate daily ERPNext timesheet filling from your Claude conversation history",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/neox-d/claude-erpnext-timesheet.git",
+        "sha": "81c58d8e186ce0fb3b7189a11808fb35e8b12a8a"
+      },
+      "homepage": "https://github.com/neox-d/claude-erpnext-timesheet"
+    }
+  ]
+}
