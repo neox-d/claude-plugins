@@ -13,7 +13,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/neox-d/claude-erpnext-timesheet.git",
-        "sha": "c550e69fa88beda95b82865554d0ade93ffcc818"
+        "sha": "162b01db93d5929d00a7ab9d677e3e40418d2c32"
       },
       "homepage": "https://github.com/neox-d/claude-erpnext-timesheet"
     }
