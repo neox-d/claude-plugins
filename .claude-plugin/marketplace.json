@@ -11,6 +11,7 @@
       "description": "Automate daily ERPNext timesheet filling from your Claude conversation history",
       "category": "productivity",
       "source": {
+        "source": "url",
         "url": "https://github.com/neox-d/claude-erpnext-timesheet.git",
         "ref": "main"
       },
