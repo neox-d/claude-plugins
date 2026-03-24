@@ -8,6 +8,7 @@
   "plugins": [
     {
       "name": "erpnext-timesheet",
+      "version": "1.1.0",
       "description": "Automate daily ERPNext timesheet filling from your Claude conversation history",
       "category": "productivity",
       "source": {
