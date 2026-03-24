@@ -8,13 +8,11 @@
   "plugins": [
     {
       "name": "erpnext-timesheet",
-      "version": "1.1.0",
       "description": "Automate daily ERPNext timesheet filling from your Claude conversation history",
       "category": "productivity",
       "source": {
-        "source": "url",
         "url": "https://github.com/neox-d/claude-erpnext-timesheet.git",
-        "sha": "f070463acf0098566a4eb089a3cf8ea552a4c75b"
+        "ref": "main"
       },
       "homepage": "https://github.com/neox-d/claude-erpnext-timesheet"
     }
